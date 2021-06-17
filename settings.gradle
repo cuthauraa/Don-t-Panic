@@ -1,0 +1,2 @@
+rootProject.name = "Percobaan Bottom Bar"
+include ':app'
